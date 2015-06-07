@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="players">
+    <item>Fábio do Couto Oliveira</item>
+    <item>Vanderlei Dávila Miranda</item>
+    <item>Jackson Dávila</item>
+    <item>Márcio Rocha</item>
+    <item>Rafael Nadal</item>
+    <item>Roger Federer</item>
+    <item>Andy Murray</item>
+    <item>Thomaz Belucci</item>
+</string-array>
+</resources>
